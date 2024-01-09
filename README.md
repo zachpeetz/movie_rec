@@ -1,1 +1,1 @@
-(website homepage)[https://zachpeetz.github.io/movie_rec/]
+[website homepage](https://zachpeetz.github.io/movie_rec/)
